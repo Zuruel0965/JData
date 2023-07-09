@@ -1,0 +1,18 @@
+"a" = (/turf/bg,/area)
+"b" = (/items/obj4,/turf/bg,/area)
+"c" = (/items/obj1,/turf/bg,/area)
+"d" = (/items/obj2,/turf/bg,/area)
+"e" = (/items/obj3,/turf/bg,/area)
+
+(1,1,1) = {"
+aaaaaaaaaa
+aaaaaaaaaa
+aaaabaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+acaaaaaaaa
+aaadaaaaaa
+aaaaaaaaaa
+aaaaeaaaaa
+"}

@@ -1,0 +1,20 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 3.000
+LAST_COMPILE_TIME: 1688921145
+DIR: Demo 
+PACKAGE_RSC_NAME: C:\Users\Home Desktop\Documents\byond_projects\JData\JData_rsc.zip
+AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: 
+MAP_ICON_TYPE: 0
+PACKAGE_DME_NAME: C:\Users\Home Desktop\Documents\byond_projects\JData\JData_src.zip
+LAST_COMPILE_VERSION: 515.1608
+PACKAGE_TYPE: 1
+PACKAGE_DME_START: documentation.dm
+WINDOW: Demo\demo.dm;Demo\icon.dmi;Demo\testmap.dmm;documentation.dm;JData.dm
+PACKAGE_DME_INFO: 
+FILE: Demo\demo.dm
+PACKAGE_DMB_NAME: C:\Users\Home Desktop\Documents\byond_projects\JData\JData.zip
+PACKAGE_DME_DEMO: 
+*/
+// END_INTERNALS
